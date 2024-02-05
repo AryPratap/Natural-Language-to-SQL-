@@ -22,10 +22,11 @@ This project deals with the implementation of Natural Language question to SQL q
 └───  README.md
 └───  requirements.txt
 └─── notebooks
-|      └─── Semantic Search Scratch (Original Assignment)
-└─── data
-       └─── fine_food_reviews_1k.csv
-       └─── fine_food_reviews_with_embeddings_1k.csv
+    └─── NL_to_SQL_final.ipynb (Final Submission file)
+    └─── geojson_to_sql.ipynb
+    └─── zero_shot_vs_few_shot_NL_to_SQL.ipynb
+
+
 ```
 ### Installation
 - Clone the github repo
