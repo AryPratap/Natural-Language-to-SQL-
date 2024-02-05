@@ -40,7 +40,7 @@ pip install -r requirements.txt
 The NL to SQL parser is implemented over QFabric dataset. <br>
 QFabric is an open-source change detection dataset with 450,000 change polygons annotated across 504 locations in 100 different cities covering a wide range of geographies and urban fabrics. QFabric is a temporal multi-task dataset with 6 change types and 9 change status classes.
 <br>
-- The original QFabric dataset is converted from geojson format to SQLite database format. The code for the same is present in <b><u>geojson_to_sql.ipynb</u><b>
+- The original QFabric dataset is converted from geojson format to SQLite database format. The code for the same is present in <b><u>geojson_to_sql.ipynb</u></b>
 - Database file size if large. Can be download through this link.
 
  ### Notebooks 
